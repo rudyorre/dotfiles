@@ -1,1 +1,29 @@
-/Users/rudyorre/Library/Application Support/Code/User/settings.json
+{
+    "explorer.confirmDragAndDrop": false,
+    "haskell.manageHLS": "GHCup",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "debug.onTaskErrors": "abort",
+    "jupyter.askForKernelRestart": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.env.osx": {},
+    "editor.rulers": [
+        80, 100
+    ],
+    "vscode-bard.cookie": "__Secure-1PSID:\"fAiWOPiX83OuWI0iu4owk196YvqSlMFZELnNtZL3bOqfl0XvPzaibJob4eFM768z7pTNyg.\"",
+    "console-ninja.predictiveLoggingEnabled": false,
+    "explorer.confirmDelete": false,
+    "github.copilot.advanced": {},
+    "github.copilot.enable": {
+        "markdown": "true"
+    },
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.formatOnSave": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 3
+}
